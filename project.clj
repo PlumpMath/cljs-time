@@ -1,6 +1,6 @@
 (defproject cljs-time "0.1.0-SNAPSHOT"
-  :description ""
-  :url ""
+  :description "clj-time with less Java interop"
+  :url "https://github.com/aamedina/cljs-time"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.5.1"]
